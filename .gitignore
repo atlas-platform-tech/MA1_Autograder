@@ -185,7 +185,9 @@ graded_output/
 student_submissions/
 student_groups/
 temp_charts/
-workspace/
+
+# Workspace root (if you ever mirror it locally)
+MA1_Autograder/
 
 # Excel lock/temp files
 ~$*.xlsx
